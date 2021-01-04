@@ -40,3 +40,7 @@ body{
     font-family: "Montserrat";
     font-weight: 1rem;
 }
+
+.dl-button{
+    margin: 5% 3% 5% 0;
+}
