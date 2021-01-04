@@ -44,3 +44,10 @@ body{
 .dl-button{
     margin: 5% 3% 5% 0;
 }
+
+/*Title image */
+
+#title-image{
+    width: 60%;
+    transform: rotate(25deg);
+}
