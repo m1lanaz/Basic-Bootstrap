@@ -5,7 +5,7 @@
 }
 
 p{
-    color: #efefef;
+    color: #b6b1b1;
 }
 
 #words{ 
@@ -68,4 +68,13 @@ body{
 
 h3{
     font-weight: 700;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color:  #ff4c68;
 }
