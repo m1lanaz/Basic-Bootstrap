@@ -147,3 +147,8 @@ h2{
     font-size: 3.5rem;
     line-height: 5rem;
 }
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
