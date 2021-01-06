@@ -16,7 +16,7 @@ p{
 }
 
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 10%;
 }
 
 body{
@@ -55,7 +55,7 @@ body{
     width: 60%;
     transform: rotate(25deg);
     position: absolute;
-    top: 65px;
+    left: 15%;
 }
 
 #features{
@@ -121,4 +121,29 @@ h2{
 
 #pricing{
     padding: 100px;
+}
+
+@media (max-width: 1208px) {
+
+    #title{
+        text-align: center;
+    }
+
+    #title-image{
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#ctahead{
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 5rem;
 }
